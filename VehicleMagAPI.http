@@ -1,6 +1,0 @@
-@VehicleMagAPI_HostAddress = http://localhost:5142
-
-# GET {{VehicleMagAPI_HostAddress}}/weatherforecast/
-# Accept: application/json
-
-###
